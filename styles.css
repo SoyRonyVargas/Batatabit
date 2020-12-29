@@ -557,7 +557,7 @@ span.icon-ripple
     top: 50%;
     width: 24px;
     height: 24px;
-    background-image: url("../assets/icons/right-arrow.svg");
+    background-image: url("./assets/icons/right-arrow.svg");
     background-repeat: no-repeat;
     color: #BABABA;
     position: absolute;
