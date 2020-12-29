@@ -449,19 +449,19 @@ span.icon-ripple
 }
 
 .clock {
-    background-image: url('/assets/icons/clock.svg');
+    background-image: url('./assets/icons/clock.svg');
 }
 
 .eye {
-    background-image: url('/assets/icons/eye.svg')
+    background-image: url('./assets/icons/eye.svg')
 }
 
 .dolar {
-    background-image: url('/assets/icons/dollar-sign.svg');
+    background-image: url('./assets/icons/dollar-sign.svg');
 }
 
 .circle{
-    background-image: url('/assets/icons/check-circle.svg');
+    background-image: url('./assets/icons/check-circle.svg');
 }
 
 .bitcoin-img-container
