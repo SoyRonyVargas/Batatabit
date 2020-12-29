@@ -18,3 +18,18 @@
     width: 930px;
     margin: 0 auto;
 }
+
+footer
+{
+    display: flex;
+}
+
+footer > section:first-of-type
+{
+    margin-bottom: 0;
+}
+
+footer img
+{
+    min-width: 100px;
+}
